@@ -15,7 +15,7 @@ Got verified data or ideas? Open an issue or submit a pull request!
 Managed by @ikbonney00   
 📧 ikb.bonney@gmail.com | 💼 https://www.linkedin.com/in/ikbonney/
 
-<!---
+<!--- 
 ikbonney00/ikbonney00 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
